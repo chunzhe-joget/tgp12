@@ -15,6 +15,16 @@
                     }
                 },
                 {
+                    "className": "org.joget.apps.form.lib.PasswordField",
+                    "properties": {
+                        "strengthChecker": "False",
+                        "readonly": "False",
+                        "label": "Password Field",
+                        "id": "field3",
+                        "readonlyLabel": "False"
+                    }
+                },
+                {
                     "className": "org.joget.apps.form.lib.TextArea",
                     "properties": {
                         "readonly": "False",
